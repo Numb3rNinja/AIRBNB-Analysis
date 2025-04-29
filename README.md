@@ -8,3 +8,28 @@ Key Insights and Recommendations Focused on:
 - **Price vs. Guest Capacity and Bedrooms:** Evaluation of how pricing scales with property size to help inform dynamic pricing strategies and optimal listing configurations.
 - **Price vs. Ratings and Guest Satisfaction:** Analysis of the relationship between pricing and customer ratings to determine whether higher prices correlare with better guest experience.
 
+The Excel dashboard and table for this project can be found [here](https://github.com/Numb3rNinja/Excel-Dashboard-and-Table-AIRBNB-Analysis-.git)
+
+## Data Structure & Initial Checks
+
+The AIRBNB main data structure for this project involved a single Excel table with 12808 rows, containing key fields such as:
+price
+country
+bathrooms
+beds
+guests
+toilets
+bedrooms
+studios
+checkin
+checkout
+
+
+
+
+
+
+
+
+
+
