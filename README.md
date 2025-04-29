@@ -31,9 +31,8 @@ To ensure data reliability and readiness for analysis, the following preliminary
 - **Duplicate Removal:** Checked for duplicate country entries or host records to prevent overrepresentation in summaries and visualizations.
 - **Consistency Check:** Confirmed that countries with extremely low listing counts (e.g., one listing) were not incorrectly aggregated or mislabeled.
 
-Executive Summary
-
-The findings reveal four central themes:
+# Executive Summary
+## Overview of Findings
 1. Affordability and Market Gaps – Several countries offer exceptionally low average prices (e.g., Jordan and Georgia), representing strong opportunities for Airbnb to grow its presence in underpenetrated regions with low competition and high value for travelers.
 
 2. Host Distribution and Platform Use – The data shows a clear divide between casual hosts and large-scale operators, with a few managing thousands of listings. This duality suggests a maturing marketplace that supports both entrepreneurial individuals and professional property managers.
