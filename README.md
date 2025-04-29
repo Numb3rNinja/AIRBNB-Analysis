@@ -24,6 +24,28 @@ studios
 checkin
 checkout
 
+Key early checks included:
+To ensure data reliability and readiness for analysis, the following preliminary checks were conducted:
+- **Null Value Check:** Verified that critical columns such as country, average price, and average rating did not contain null or missing values. Minor missing data was excluded from the aggegation metric.
+- **Data Type Validation:** Ensure numeric fields (e.g., price, ratings, reviews) were properly formatted and free from text entries or symbols that could disrupt calculations.
+- **Duplicate Removal:** Checked for duplicate country entries or host records to prevent overrepresentation in summaries and visualizations.
+- **Consistency Check:** Confirmed that countries with extremely low listing counts (e.g., one listing) were not incorrectly aggregated or mislabeled.
+
+Executive Summary
+
+The findings reveal four central themes:
+1. Affordability and Market Gaps – Several countries offer exceptionally low average prices (e.g., Jordan and Georgia), representing strong opportunities for Airbnb to grow its presence in underpenetrated regions with low competition and high value for travelers.
+
+2. Host Distribution and Platform Use – The data shows a clear divide between casual hosts and large-scale operators, with a few managing thousands of listings. This duality suggests a maturing marketplace that supports both entrepreneurial individuals and professional property managers.
+
+3. Price Sensitivity by Property Attributes – Guest capacity and bedroom count significantly impact listing price, but diminishing returns appear beyond certain thresholds. This informs smarter capacity planning and pricing optimization strategies for hosts and platform algorithms.
+
+4. Guest Experience Consistency – Price does not determine guest satisfaction. High average ratings are consistently achieved across price tiers, emphasizing the importance of service quality over cost.
+
+For a stakeholder like a Regional Market Manager or Pricing Strategist, these insights highlight the importance of tailoring expansion plans, host support programs, and pricing tools to fit the nuanced behavior of local markets and listing types.
+
+
+
 
 
 
